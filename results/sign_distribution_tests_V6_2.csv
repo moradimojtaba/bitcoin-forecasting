@@ -1,0 +1,9 @@
+﻿horizon,n_origins,positive_n,negative_n,zero_n,positive_pct,positive_rate_CI95_low_pct,positive_rate_CI95_high_pct,exact_binomial_p_vs_0.5,all_positive,interpretation
+12M,3032,2295,737,0,75.69261213720317,74.13393120701,77.1862718119323,1.8061156971088343e-184,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+15D,3732,2080,1652,0,55.734190782422296,54.13552875094423,57.321060205459396,2.611642774485136e-12,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+1M,3702,2089,1612,1,56.42895732036737,54.82583160367028,58.018754579773116,5.390843721253746e-15,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+24M,2302,1734,568,0,75.32580364900087,73.52345400016911,77.0437693247312,2.3584533241474648e-136,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+2M,3642,2126,1516,0,58.37451949478309,56.76559575482928,59.965795527262124,4.748650601913707e-24,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+36M,1572,1567,5,0,99.68193384223919,99.25757951711276,99.86406696939024,0.0,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+3M,3582,2114,1467,1,59.01730876605249,57.39792877887254,60.61736853470293,3.2176798323840027e-27,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.
+6M,3402,2181,1221,0,64.10934744268077,62.48238568323154,65.7044812513324,1.5085970325245535e-61,False,High unconditional positive-return rate; not by itself evidence of conditional predictability.

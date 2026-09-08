@@ -1,0 +1,17 @@
+﻿horizon,horizon_days,series,n,CUSUM_stat,CUSUM_p,interpretation
+15D,15,target_return,4746,3.7367535212988865,1.4881214290254986e-12,Mean-stability diagnostic; no breakpoint date is inferred.
+15D,15,adaptive_ensemble_error,3732,3.222759607450354,1.904184899391668e-09,Mean-stability diagnostic; no breakpoint date is inferred.
+1M,30,target_return,4731,4.579435468901353,1.2180124937009762e-18,Mean-stability diagnostic; no breakpoint date is inferred.
+1M,30,adaptive_ensemble_error,3702,4.316500130337064,1.310176574815079e-16,Mean-stability diagnostic; no breakpoint date is inferred.
+2M,60,target_return,4701,5.428800536950544,5.0359846011139295e-26,Mean-stability diagnostic; no breakpoint date is inferred.
+2M,60,adaptive_ensemble_error,3642,4.85981910674697,6.1211539509629814e-21,Mean-stability diagnostic; no breakpoint date is inferred.
+3M,90,target_return,4671,6.028390399643914,5.435157697499719e-32,Mean-stability diagnostic; no breakpoint date is inferred.
+3M,90,adaptive_ensemble_error,3582,6.37798824697576,9.288177651678733e-36,Mean-stability diagnostic; no breakpoint date is inferred.
+6M,180,target_return,4581,9.150438732530384,3.746420959868729e-73,Mean-stability diagnostic; no breakpoint date is inferred.
+6M,180,adaptive_ensemble_error,3402,5.178631467146998,1.0162877975738782e-23,Mean-stability diagnostic; no breakpoint date is inferred.
+12M,365,target_return,4396,12.835627357574186,1.5779967355490976e-143,Mean-stability diagnostic; no breakpoint date is inferred.
+12M,365,adaptive_ensemble_error,3032,10.712893174246824,4.1350364950113845e-100,Mean-stability diagnostic; no breakpoint date is inferred.
+24M,730,target_return,4031,15.712847044820592,7.112243008487843e-215,Mean-stability diagnostic; no breakpoint date is inferred.
+24M,730,adaptive_ensemble_error,2302,10.828475412629722,2.8435894418083525e-102,Mean-stability diagnostic; no breakpoint date is inferred.
+36M,1095,target_return,3666,18.202116530316534,3.3319629220289895e-288,Mean-stability diagnostic; no breakpoint date is inferred.
+36M,1095,adaptive_ensemble_error,1572,14.540264224570683,4.6192707707402904e-184,Mean-stability diagnostic; no breakpoint date is inferred.

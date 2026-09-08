@@ -158,7 +158,7 @@ warnings.filterwarnings("ignore")
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
 
-INPUT_FILE = PROJECT_DIR / "modeling_data" / "bitcoin_modeling_dataset.csv"
+INPUT_FILE = PROJECT_DIR / "data" / "processed" / "bitcoin_modeling_dataset.csv"
 
 RESULT_DIR = PROJECT_DIR / "forecasting_results_V6_2"
 FIGURE_DIR = PROJECT_DIR / "forecasting_figures_V6_2"
